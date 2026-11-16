@@ -1,1 +1,3 @@
-{}
+{
+  "features": ["circles", "streak", "share_link"]
+}
